@@ -20,3 +20,7 @@
  sentiment tweets. The dashboard improves comprehension of patterns of mental
  health stigma and enables stakeholders in mental health advocacy and policy-making
  to make well-informed decisions
+
+
+Below is the dashboard of Stigma Prediction based on the Tweet
+![image](https://github.com/user-attachments/assets/a1d1f7e0-cb02-4316-a5d2-4ea011480f17)
