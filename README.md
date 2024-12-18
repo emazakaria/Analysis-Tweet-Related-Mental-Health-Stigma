@@ -1,4 +1,4 @@
-# MyFinalYearProject
+# Stigma Prediction
 
  Stigma, as described by the Cambridge Dictionary, refers to a strong feeling of
  disapproval held by the majority of individuals in a society towards something,
